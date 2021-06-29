@@ -43,3 +43,5 @@ docker push 123456789.dkr.ecr.eu-central-1.amazonaws.com/lambda-docker-etl:lates
 ```
 
 ## Once it's been pushed to the ECR it can be used in your lambda function.
+
+* TBD
