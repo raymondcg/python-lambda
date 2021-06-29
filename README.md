@@ -10,8 +10,8 @@
 * Build
 
 ```bash
-docker build -t lambda-docker-etl .
-docker run --rm -d -p 9000:8080 --name lambda-docker-etl lambda-docker-etl
+docker build -t necrobraska/lambda-docker-etl:latest .
+docker run --rm -d -p 9000:8080 --name lambda-docker-etl necrobraska/lambda-docker-etl
 docker logs -f lambda-docker-etl
 ```
 
