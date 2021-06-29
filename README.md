@@ -2,6 +2,9 @@
 
 * This is an example python lambda docker project. The real ones will be standalone git projects, and build / deployed seperately. 
 
+## Based on Guide
+* [Lambda](https://dashbird.io/blog/deploying-aws-lambda-with-docker/)
+
 ## Local Build / Test
 
 * Build
